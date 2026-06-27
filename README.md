@@ -95,7 +95,7 @@ and unauthenticated access attempts — not just happy path scenarios.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/playwright-automation-suite.git
+git clone https://github.com/raviefabie/playwright-automation-suite.git
 
 # Navigate to project folder
 cd playwright-automation-suite
@@ -178,7 +178,7 @@ Total               →   51 tests  — all passing
 ## Author
 
 **Syafiq** — QA Engineer  
-[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+[LinkedIn](https://www.linkedin.com/in/muhammad-syafiq-talib-5bbb98194/)
 
 ---
 
